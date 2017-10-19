@@ -72,7 +72,6 @@
             android:layout_marginLeft="180sp"
 
             android:background="@drawable/start_button_color"
-            android:onClick="click"
             android:text="登录"
             android:textSize="24sp" />
 
